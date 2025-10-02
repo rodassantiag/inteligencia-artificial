@@ -1,0 +1,40 @@
+# Dependencias para el repositorio de Inteligencia Artificial
+
+# Computación numérica y manipulación de datos
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Deep Learning
+tensorflow>=2.8.0
+keras>=2.8.0
+torch>=1.11.0
+torchvision>=0.12.0
+
+# Visualización de datos
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Procesamiento de lenguaje natural
+nltk>=3.7.0
+spacy>=3.4.0
+textblob>=0.17.0
+
+# Visión por computadora
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Notebooks y utilidades
+jupyter>=1.0.0
+ipython>=7.0.0
+tqdm>=4.60.0
+
+# Herramientas adicionales
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
